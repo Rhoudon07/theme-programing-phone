@@ -89,3 +89,4 @@ En la barra de búsqueda superior puedes escribir comandos de consola rápidos:
 * `:font` - Acceso directo a la selección de fuentes.
 * `:wp` - Acceso directo a la selección de fondos de pantalla.
 * `:clear` - Limpia la búsqueda actual.
+
